@@ -83,3 +83,5 @@
 
 * [Bhashitha Dhananjaya](https://github.com/glbdhananjaya)
 
+* [Elaine C](https://github.com/El6c)
+
